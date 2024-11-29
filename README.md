@@ -1,3 +1,19 @@
+LOGIN DETAILS FOR EXPERIENCING BOOKING APP
+
+Admin Login credentials for app surifng         
+Email - yo@gmail.com
+Password - 12345
+
+Doctor Login credentials for app surifng
+Email - chrollo@gmail.com
+Password - 12345
+
+User/patient Login credentials for app surifng
+Email - broly@gmail.com
+Password - 12345
+
+ABOUT PROJECT
+
 Doctor Booking App This is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that allows users to book appointments with doctors. It features a user-friendly interface, secure authentication with JWT, and robust form validation with Formik.  
 
 Features User Roles:
